@@ -46,7 +46,7 @@ public class QuickSortArray{
 
    
 	public static void main(String args[]){
-            int a[]={0,12,3,29,79,3,1,1,100000,-1};	
+            int a[]={-129,0,12,3,29,79,3,1,1,100000,-1};	
 	        try{
 			sort(a);
 			for(int i =0;i<a.length;i++){
